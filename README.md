@@ -5,4 +5,3 @@
 - 😌 Most comfortable in C++ programming language
 - 💞 Will be more than happy to collaborate ☺️
 - 📫 You can reach me at --> www.linkedin.com/in/aditya-goutam-323a201ba
-- 🤝 We can be friends on --> www.instagram.com/adityagoutam23 
