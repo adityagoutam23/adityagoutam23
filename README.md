@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityagoutam23
 - 👀 I’m interested in making new projects in different programming languages
 - 🌱 I’m currently learning JAVA
-- ✅ Have gained some knowledge in --> C++, C, python
+- ✅ Have gained some knowledge in --> C++, C, python, MySQL
 - 😌 Most comfortable in C++ programming language
 - 💞 Will be more than happy to collaborate ☺️
 - 📫 You can reach me at --> www.linkedin.com/in/aditya-goutam-323a201ba
