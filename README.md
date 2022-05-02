@@ -1,10 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&size=35&color=1F51FF&lines=Welcome+Folks+!;Willkommen+Leute+!;¡Bienvenidos+amigos+!;Bienvenue+les+amis+!;ようこそ皆さん+!)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Aditya Goutam</h1>
+<hr noshade></hr>
 <h3 align="center">Coding Enthusiast and passionate about acquiring new skills</h3>
 <!-- <p><img align="left" src="https://slackmojis.com/emojis/7373-hand_wave/download" alt="adityagoutam23" height="30" width="40"/></p> -->
 
 <hr noshade></hr>
 <!-- <br></br> -->
+
+<h3 align="left">About</h3>
 
 - 👀 I’m interested in **Contributing to open source**
 
