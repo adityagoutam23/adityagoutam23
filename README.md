@@ -3,10 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagoutam23&label=Profile%20views&color=0e75b6&style=flat" alt="adityagoutam23" /> </p>
 
+- 👀 I’m interested in **Contributing to open source**
 
 - 🔭 I’m currently working on **Budget Calculator using python**
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking for help with **Web Development**
 
@@ -16,7 +17,7 @@
 
 - 📫 How to reach me **adityagoutam2318@gmail.com**
 
-- ⚡ Fun fact **In order to know me you should know me**
+- ⚡ Fun fact **NASA’s internet speed is 91 GB per second**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
