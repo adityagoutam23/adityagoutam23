@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityagoutam23" alt="adityagoutam23" /></a> </p>
 
-- 🔭 I’m currently working on **Budget Calculator usig python**
+- 🔭 I’m currently working on **Budget Calculator using python**
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
