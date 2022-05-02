@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&lines=Hello+Guys;+Hola+Guys)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&width=1000&lines=Hello+Guys+!;+Hola+Guys+!)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Aditya Goutam</h1>
 <h3 align="center">Coding Enthusiast and passionate about acquiring new skills</h3>
 <!-- <p><img align="left" src="https://slackmojis.com/emojis/7373-hand_wave/download" alt="adityagoutam23" height="30" width="40"/></p> -->
