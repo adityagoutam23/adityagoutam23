@@ -4,7 +4,7 @@
 <!-- <p><img align="left" src="https://slackmojis.com/emojis/7373-hand_wave/download" alt="adityagoutam23" height="30" width="40"/></p> -->
 
 
-<h1 align="left">About:</h1>
+<h1 align="left"&size20>About:</h1>
 - 👀 I’m interested in **Contributing to open source**
 
 - 🔭 I’m currently working on **Budget Calculator using python**
