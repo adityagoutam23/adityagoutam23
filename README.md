@@ -47,3 +47,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityagoutam23&show_icons=true&locale=en" alt="adityagoutam23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagoutam23&" alt="adityagoutam23" /></p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/adityagoutam23/count.svg" />
+</p>
