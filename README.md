@@ -3,8 +3,9 @@
 <h3 align="center">Coding Enthusiast and passionate about acquiring new skills</h3>
 <!-- <p><img align="left" src="https://slackmojis.com/emojis/7373-hand_wave/download" alt="adityagoutam23" height="30" width="40"/></p> -->
 
-<hr size="200px"></hr>
+<hr noshade></hr>
 <!-- <br></br> -->
+
 - 👀 I’m interested in **Contributing to open source**
 
 - 🔭 I’m currently working on **Budget Calculator using python**
