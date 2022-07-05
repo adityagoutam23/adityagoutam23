@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in **Contributing to open source**
 
-- 🔭 I’m currently working on **Budget Calculator using python**
+- 🔭 I’m currently working on **Posture Detector**
 
 - 🌱 I’m currently learning **Machine Learning**
 
